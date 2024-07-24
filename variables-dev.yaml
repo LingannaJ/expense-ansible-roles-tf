@@ -3,4 +3,4 @@ login_host: db-dev.shivdev.online
 login_password: ExpenseApp1
 DB_HOST: db-dev.shivdev.online
 BACKEND_HOST: backend.app-dev.shivdev.online
-# nexus_url: nexus.shivdev.online:8081
+nexus_url: nexus.shivdev.online:8081
